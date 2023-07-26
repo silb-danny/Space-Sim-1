@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_PLANET3D 1
+  m_Shader: {fileID: -6465566751694194690, guid: 4a6a683863708274ebd9c450d24bfdb0, type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_00226fed3df94d69b9bfd3f1382343fa: -1.94
+    - Vector1_0e3b8a9441f04573b07114396442be91: 7.78
+    - Vector1_313301199ce64f269c65b0f36b39c13d: 0.74
+    - Vector1_4db934c9ca83472f97d92048c598c37d: 2.64
+    - Vector1_861285ca8d174061baa0eff769b2a2d2: 2.11
+    - Vector1_cc1ebe1f675043b4b9dce5ce58a7b9af: 0.02
+    - Vector1_cfca8a7d6fb04fb2be3786a5a22502a0: 0.12
+    - Vector1_ec0573d316224e59b468b0b593f6852f: 24.62
+    m_Colors:
+    - Color_38c34372ba7749dfbf25216007743c97: {r: 0.5754717, g: 0.5754717, b: 0.5754717, a: 0}
+    - Color_b278a97c1ede464988e62f9aab8a8fe2: {r: 0, g: 0.620212, b: 0.8773585, a: 0}
+    - Color_b84f3b16d82c467bbbc2e438a079ad45: {r: 0.5849056, g: 0.50118387, b: 0.43867922, a: 0}
+    - _cl1: {r: 1, g: 0.4285715, b: 0, a: 0}
+    - _cl2: {r: 0, g: 0.620212, b: 0.8773585, a: 0}
+    - _cl3: {r: 0.5754717, g: 0.5754717, b: 0.5754717, a: 0}
+    - _disR: {r: 0, g: 0, b: 0, a: 0}
+    - _seed: {r: 0.57, g: 0, b: 0, a: 0}
+    - _til: {r: 2.08, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []
